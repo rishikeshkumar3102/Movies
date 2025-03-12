@@ -70,6 +70,8 @@ class MovieManagement {
 const movieManager = new MovieManagement();
 movieManager.addMovie("1", "Inception", "Christopher Nolan", 2010, "Sci-Fi");
 movieManager.addMovie("2", "Interstellar", "Christopher Nolan", 2014, "Sci-Fi");
+movieManager.addMovie("3", "3 Idiots", "Rajkumar Hirani", 2009, "Comedy");
+movieManager.addMovie("4", "Dilwale Dulhania Le Jayenge", "Aditya Chopra", 1995, "Romance");
 movieManager.rateMovie("1", 5);
 movieManager.rateMovie("1", 4);
 movieManager.rateMovie("2", 5);
