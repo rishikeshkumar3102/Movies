@@ -1,0 +1,18 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Movies management system",
+  "main": "index.js",
+  "type": "module", 
+  "devDependencies": {
+    
+    "@types/node": "^20.11.17", 
+    "tsx": "^4.7.1" 
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishikesh",
+  "license": "ISC"
+}
